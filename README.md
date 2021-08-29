@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on my appearance on the web
 - 🌱 I’m currently learning web development with Django Framework
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
