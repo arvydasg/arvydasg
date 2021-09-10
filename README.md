@@ -9,4 +9,4 @@ I'm also an architecture/engineering graduate, an opensource lover and I photogr
 - 📫 How to reach me: info@arvydas.dev
 - ⚡ Fun fact: I like salsa dancing, landscape photography and vagabonding.
 
-                                                               Thanks for stopping by! pray
+Thanks for stopping by! 🙏 
