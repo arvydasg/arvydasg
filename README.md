@@ -3,9 +3,9 @@
 I'm a passionate lithuanian self-learning frontend webdev. 
 I'm also an architecture/engineering graduate, an opensource lover and I photograph as a hobby. 
 
--📓Check out my portfolio
+- 📓Check out my portfolio
 
--📃Check out my curiculum vitae
+- 📃Check out my curiculum vitae
 
 - 🔭 I’m currently working on my "citatos" personal project
 - 🌱 I’m currently learning Django Framework
