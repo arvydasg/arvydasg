@@ -8,4 +8,4 @@ I am a self-learning programmer/web-dev :)
 - ⚡ About:
   * **salsa** dancing
   * landscape **photography**
-  * **traveling**
+  * **travelling**
